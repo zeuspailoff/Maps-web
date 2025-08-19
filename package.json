@@ -1,6 +1,6 @@
 {
   "name": "maps-web",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Proyecto en desarrollo enfocado en crear una solución innovadora y funcional, actualmente en fase de pruebas y mejoras para garantizar calidad y usabilidad",
   "main": "index.js",
   "scripts": {
