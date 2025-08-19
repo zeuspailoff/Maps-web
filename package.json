@@ -1,0 +1,24 @@
+{
+  "name": "maps-web",
+  "version": "1.0.0",
+  "description": "Proyecto en desarrollo enfocado en crear una solución innovadora y funcional, actualmente en fase de pruebas y mejoras para garantizar calidad y usabilidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "init-db": "node db/initDb.js",
+    "dev": "nodemon app.js",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeuspailoff/Maps-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeuspailoff/Maps-web/issues"
+  },
+  "homepage": "https://github.com/zeuspailoff/Maps-web#readme"
+}
