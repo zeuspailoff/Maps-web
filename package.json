@@ -20,5 +20,17 @@
   "bugs": {
     "url": "https://github.com/zeuspailoff/Maps-web/issues"
   },
-  "homepage": "https://github.com/zeuspailoff/Maps-web#readme"
+  "homepage": "https://github.com/zeuspailoff/Maps-web#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "joi": "^18.0.0",
+    "joi-errors-for-forms": "^0.2.6",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^7.0.5",
+    "uuid": "^11.1.0"
+  }
 }
